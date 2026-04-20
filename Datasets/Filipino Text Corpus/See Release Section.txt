@@ -1,1 +1,1 @@
-See Release Section
+See Release Section: https://github.com/rbp0803/MAIBaybay-OCR/releases/tag/v1.0.
