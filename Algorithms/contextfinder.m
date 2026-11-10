@@ -45,7 +45,6 @@ response1=FilNLPProcess_GPTModels(Phrase3);
 
 % Call to integrate open-source BERT Models for NLP module
 %response1=FilNLPProcess_BERTModels(Phrase3);
-%response1=FilNLPProcess_RoBERTaFilipinov3(Phrase3); %Call for RoBERTa Filipino process
 
 
 disp(response1); %display model response
